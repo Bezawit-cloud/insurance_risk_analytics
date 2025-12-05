@@ -1,2 +1,4 @@
-data/
+
 insurance_env/
+data/*
+!data/*.dvc
